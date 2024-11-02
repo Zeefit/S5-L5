@@ -11,7 +11,7 @@ Link apparentemente legittimo: Il link mostrato nella mail sembra legato alla ba
 
 Elementi sospetti nell'email:
 
-Dominio del link: Il link contiene parole simili a quelle del dominio ufficiale della banca, ma è leggermente diverso. Le banche usano domini ufficiali verificabili, e differenze minime sono spesso segno di phishing.
+L’email include dettagli come un numero di telefono e un sito web. Anche se il link è falso, la sua struttura dà l'impressione di essere legittima. Questo contribuisce a far apparire l’email come una comunicazione reale da parte della banca, inducendo la vittima a inserire le proprie credenziali.
 Invito a cliccare su un link sospetto: Anche se il link sembra legittimo, è una pratica comune per le banche invitare gli utenti a visitare il sito ufficiale digitando l’indirizzo direttamente, piuttosto che cliccare su un link.
 Errore di grammatica o sintassi: Piccoli errori o frasi leggermente sgrammaticate possono indicare che l'email non è autentica.
 Scarsa personalizzazione: L’email si rivolge al destinatario come “Gentile Cliente”, anziché con il nome e cognome dell’utente, una scelta che può suscitare dubbi sulla sua autenticità e veriticità della mail stessa.
