@@ -16,7 +16,8 @@ Invito a cliccare su un link sospetto: Anche se il link sembra legittimo, è una
 Errore di grammatica o sintassi: Piccoli errori o frasi leggermente sgrammaticate possono indicare che l'email non è autentica.
 Scarsa personalizzazione: L’email si rivolge al destinatario come “Gentile Cliente”, anziché con il nome e cognome dell’utente, una scelta che può suscitare dubbi sulla sua autenticità e veriticità della mail stessa.
 
-Ingegneria Sociale in Azione
+Ingegneria Sociale in Azione:
+
 Questo tipo di phishing è un esempio diretto di come l'ingegneria sociale si basi su reazioni emotive e pregiudizi cognitivi per eludere la logica. Le tecniche qui applicate (urgenza, autorità, legittimità, scarsità di tempo, fiducia) possono risultare molto persuasive, specialmente quando il contesto riguarda dati personali o finanziari.
 
 L’ingegneria sociale sfrutta vulnerabilità umane, non tecnologiche. Anche con misure di sicurezza sofisticate, gli attaccanti possono comunque ottenere informazioni se riescono a manipolare la fiducia e il comportamento degli utenti. Questa email di phishing simula una comunicazione affidabile, cercando di trasformare il destinatario in un "collaboratore inconsapevole" dell’attacco
