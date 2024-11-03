@@ -6,7 +6,7 @@ Questa email potrebbe sembrare credibile alla vittima per diversi motivi:
 
 Struttura e tono: L’email ha una struttura formale e un tono professionale, che è tipico delle comunicazioni bancarie.
 Urgenza: La presenza di un potenziale rischio di sospensione del conto crea una sensazione di urgenza, spingendo la vittima a compiere azioni rapide e a non riflettere a lungo sulla veridicità del messaggio sfruttando la paura e la pressione psicologica.
-Dettagli di contatto: L'inclusione di un numero di telefono e un sito web aiuta a rendere l’email più autentica.
+Dettagli di contatto: L'aggiunta di un numero di telefono e un sito web aiuta a rendere l’email più autentica.
 Link apparentemente legittimo: Il link mostrato nella mail sembra legato alla banca (con un dominio che contiene parole come "banca" e "sicurezza"), sebbene sia un dominio sospetto e simile a quello ufficiale.
 
 Elementi sospetti nell'email:
