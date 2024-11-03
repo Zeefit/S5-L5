@@ -1,4 +1,4 @@
-Scenario di phishing
+
 Immaginiamo uno scenario in cui una banca invia un'email per notificare al cliente un'attività sospetta sul proprio conto online. L'obiettivo del phishing è ottenere le credenziali di accesso al conto bancario, che il truffatore potrebbe poi usare per sottrarre fondi o raccogliere ulteriori informazioni personali e fare frodi.
 L'email sfrutta una situazione di urgenza – un'attività sospetta che potrebbe portare al blocco del conto – per convincere la vittima a cliccare su un link e inserire le proprie credenziali in una pagina web falsificata che somiglia a quella del sito ufficiale della banca,cosi da appropriasi di tali per effetturai ad esempio frodi e altre illeciti.
 
